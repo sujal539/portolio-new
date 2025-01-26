@@ -1,0 +1,29 @@
+.project-container{
+    display:flex;
+    gap:20px;
+    height:200px;
+
+}
+.project-card{
+    background-color: black;
+    color:white;
+    align-items: center;
+    height:80%;
+    width:20%;
+}
+header{
+    background-color: black;
+    color:white;
+    text-align:center;
+}
+.skills{
+    display: flex;
+    gap:20px;
+    height:50px;
+}
+.skill{background-color: black;
+    color:white;
+    align-items: center;
+    height:80%;
+    width:20%;
+}
